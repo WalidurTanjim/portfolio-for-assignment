@@ -6,8 +6,6 @@ const Contact = () => {
     <div className="container px-6 py-24 mx-auto lg:py-32">
         <div className="lg:flex">
             <div className="lg:w-1/2">
-                <img className="w-auto h-7 sm:h-8" src="https://merakiui.com/images/logo.svg" alt="" />
-
                 <h1 className="mt-4 text-gray-600 dark:text-gray-300 md:text-lg">Welcome back</h1>
                 
                 <h1 className="mt-4 text-2xl font-medium text-gray-800 capitalize lg:text-3xl dark:text-white">Let us know your message</h1>

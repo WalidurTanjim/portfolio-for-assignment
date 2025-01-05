@@ -1,4 +1,5 @@
 import React from 'react';
+import my_img from "../../../assets/tanjim-removebg-preview.png";
 import { ArrowDownTrayIcon } from '@heroicons/react/24/outline'
 
 const Hero = () => {
@@ -6,7 +7,7 @@ const Hero = () => {
         <div className="hero min-h-screen">
             <div className='container mx-auto px-6'>
                 <div className="hero-content flex-col lg:flex-row-reverse gap-y-14 lg:gap-y-0">
-                    <img src="https://img.daisyui.com/images/stock/photo-1635805737707-575885ab0820.webp" className="max-w-sm rounded-lg shadow-2xl" />
+                    <img src={my_img} className="max-w-sm rounded-lg shadow-2xl" />
 
                     <div>
                         <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold">Frontend Web Developer</h1>
