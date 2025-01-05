@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const Footer = () => {
     return (
         <footer className="py-10">
-            <div className="footer container mx-auto px-6">
+            <div className="footer container mx-auto px-10">
                 <aside>
                     <Link to='/'><h1 className='text-xl md:2xl font-semibold'>Dev.WR</h1></Link>
                     <p>Junior Frontend Web Developer</p>
