@@ -4,6 +4,7 @@ import Skills from '../Skills/Skills';
 import Education from '../Education/Education';
 import WorkWithMe from '../WorkWithMe/WorkWithMe';
 import Contact from '../../Contact/Contact';
+import Projects from '../Projects/Projects';
 
 const Home = () => {
     return (
@@ -12,6 +13,7 @@ const Home = () => {
             <Skills />
             <Education />
             <WorkWithMe />
+            <Projects />
             <Contact />
         </section>
     );

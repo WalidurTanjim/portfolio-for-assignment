@@ -13,10 +13,10 @@ const Hero = () => {
                         <h1 className="text-2xl md:text-3xl lg:text-4xl font-semibold">Frontend Web Developer</h1>
                         <p className="py-4 italic text-gray-600">"Creative Frontend Web Developer specializing in crafting dynamic, responsive, and user-friendly websites. Proficient in modern technologies like React, Tailwind CSS, and JavaScript to bring innovative designs to life."</p>
                         
-                        <button className="btn btn-primary flex justify-center items-center gap-x-1">
+                        <a href="https://docs.google.com/document/d/1g3d4jAGwXoRMr_9bSZYPMRGSlDEaZ_XSD9M2_ZEXEDk/export?format=pdf" download="Resume.pdf" className="btn btn-primary flex justify-center items-center gap-x-1 w-[200px]">
                             <ArrowDownTrayIcon className="size-5 text-white" />
                             Download Resume
-                        </button>
+                        </a>
                     </div>
                 </div>
             </div>
