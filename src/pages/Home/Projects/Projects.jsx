@@ -16,47 +16,47 @@ const Projects = () => {
             <SectionTitle title="My Projects" sub_title="My some projects in here" />
 
             <div className="grid gap-5 gird-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-                <div className="p-2 rounded-md border-lg border group">
+                <div className="p-2 rounded-md border-lg border group hover:shadow-xl transition-all ease-in-out duration-150">
                     <img src={gadgetHeaven} alt="" className='rounded-md w-full h-[175px]' />
                     <h1 className='mt-2 font-medium group-hover:text-purple-500 cursor-pointer'>Gadget Heaven</h1>
                 </div>
 
-                <div className="p-2 rounded-md border-lg border group">
+                <div className="p-2 rounded-md border-lg border group hover:shadow-xl transition-all ease-in-out duration-150">
                     <img src={moviePortal} alt="" className='rounded-md w-full h-[175px]' />
                     <h1 className='mt-2 font-medium group-hover:text-purple-500 cursor-pointer'>Movie Portal</h1>
                 </div>
 
-                <div className="p-2 rounded-md border-lg border group">
+                <div className="p-2 rounded-md border-lg border group hover:shadow-xl transition-all ease-in-out duration-150">
                     <img src={peddy} alt="" className='rounded-md w-full h-[175px]' />
                     <h1 className='mt-2 font-medium group-hover:text-purple-500 cursor-pointer'>Peddy</h1>
                 </div>
 
-                <div className="p-2 rounded-md border-lg border group">
+                <div className="p-2 rounded-md border-lg border group hover:shadow-xl transition-all ease-in-out duration-150">
                     <img src={teaStoll} alt="" className='rounded-md w-full h-[175px]' />
                     <h1 className='mt-2 font-medium group-hover:text-purple-500 cursor-pointer'>Tea stroll</h1>
                 </div>
 
-                <div className="p-2 rounded-md border-lg border group">
+                <div className="p-2 rounded-md border-lg border group hover:shadow-xl transition-all ease-in-out duration-150">
                     <img src={ecoAdventure} alt="" className='rounded-md w-full h-[175px]' />
                     <h1 className='mt-2 font-medium group-hover:text-purple-500 cursor-pointer'>Eco Adventure</h1>
                 </div>
 
-                <div className="p-2 rounded-md border-lg border group">
+                <div className="p-2 rounded-md border-lg border group hover:shadow-xl transition-all ease-in-out duration-150">
                     <img src={serviceScout} alt="" className='rounded-md w-full h-[175px]' />
                     <h1 className='mt-2 font-medium group-hover:text-purple-500 cursor-pointer'>Service Scout</h1>
                 </div>
 
-                <div className="p-2 rounded-md border-lg border group">
+                <div className="p-2 rounded-md border-lg border group hover:shadow-xl transition-all ease-in-out duration-150">
                     <img src={cricketMatch} alt="" className='rounded-md w-full h-[175px]' />
                     <h1 className='mt-2 font-medium group-hover:text-purple-500 cursor-pointer'>Cricket Match</h1>
                 </div>
 
-                <div className="p-2 rounded-md border-lg border group">
+                <div className="p-2 rounded-md border-lg border group hover:shadow-xl transition-all ease-in-out duration-150">
                     <img src={panda} alt="" className='rounded-md w-full h-[175px]' />
                     <h1 className='mt-2 font-medium group-hover:text-purple-500 cursor-pointer'>Panda Commerce</h1>
                 </div>
 
-                <div className="p-2 rounded-md border-lg border group">
+                <div className="p-2 rounded-md border-lg border group hover:shadow-xl transition-all ease-in-out duration-150">
                     <img src={chef} alt="" className='rounded-md w-full h-[175px]' />
                     <h1 className='mt-2 font-medium group-hover:text-purple-500 cursor-pointer'>Chef's Restaurant</h1>
                 </div>
