@@ -17,6 +17,12 @@ const Hero = () => {
                             <ArrowDownTrayIcon className="size-5 text-white" />
                             Download Resume
                         </a>
+
+                        <div className="mt-5 flex items-center gap-3">
+                            <a href='https://www.facebook.com/' target='_block'><ion-icon size="large" name="logo-facebook"></ion-icon></a>
+                            <a href='https://www.instagram.com/?hl=en' target='_block'><ion-icon size="large" name="logo-instagram"></ion-icon></a>
+                            <a href='https://www.linkedin.com/' target='_block'><ion-icon size="large" name="logo-linkedin"></ion-icon></a>
+                        </div>
                     </div>
                 </div>
             </div>
