@@ -3,7 +3,7 @@ import SectionTitle from '../../../components/SectionTitle/SectionTitle';
 
 const Education = () => {
     return (
-        <section className='education container mx-auto px-10 py-14'>
+        <section className='education container mx-auto px-10 py-14' id="education">
             <SectionTitle title="Educational Qualification" sub_title="Highlight relevant degrees and certifications achieved" />
 
             <div className="">

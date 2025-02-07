@@ -12,7 +12,7 @@ import chef from '../../../assets/project-ss/chef.png'
 
 const Projects = () => {
     return (
-        <section className='projects container mx-auto px-6 py-14'>
+        <section className='projects container mx-auto px-6 py-14' id="project">
             <SectionTitle title="My Projects" sub_title="My some projects in here" />
 
             <div className="grid gap-5 gird-cols-1 sm:grid-cols-2 lg:grid-cols-3">

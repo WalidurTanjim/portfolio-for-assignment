@@ -5,7 +5,7 @@ import { CircleStackIcon, CodeBracketSquareIcon, CpuChipIcon, CogIcon } from '@h
 
 const Skills = () => {
     return (
-        <section className='services py-14'>
+        <section className='services py-14' id="skills">
             <div className='container mx-auto px-10'>
                 <SectionTitle title="My Skills" sub_title="Showcasing Expertise in Modern Web Development" />
 

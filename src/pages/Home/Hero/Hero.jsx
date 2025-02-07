@@ -4,7 +4,7 @@ import { ArrowDownTrayIcon } from '@heroicons/react/24/outline'
 
 const Hero = () => {
     return (
-        <div className="hero min-h-screen">
+        <div className="hero min-h-screen" id="hero">
             <div className='container mx-auto px-6'>
                 <div className="hero-content flex-col lg:flex-row-reverse gap-y-14 lg:gap-y-0">
                     <img src={my_img} className="max-w-sm rounded-lg shadow-2xl" />
